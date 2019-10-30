@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 
 $patchFile = $argv[1] | "";
