@@ -1,0 +1,13 @@
+{
+    "name": "danielruf/patch-cutter-php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Ruf",
+            "email": "daniel@daniel-ruf.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
